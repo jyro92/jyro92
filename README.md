@@ -10,7 +10,7 @@
 
 - 👨‍💻 Learning all about **Data Engineering, DevOps, React native, cypress**
 
-- ⚙️ I use daily: **.py, .js, .yml, .sh**
+- ⚙️ I use daily: **.py, php, .js, .yml, .sh**
 
 - 💬 Ask me about **Python and php**
 
